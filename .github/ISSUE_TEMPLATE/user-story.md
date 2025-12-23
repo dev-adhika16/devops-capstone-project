@@ -1,3 +1,8 @@
+---
+name: User Story
+about: Create a new user story for feature development
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
